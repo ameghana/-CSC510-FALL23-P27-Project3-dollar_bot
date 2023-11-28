@@ -1,4 +1,4 @@
-<p align="center"><img width="500" src="./assests/Logo3.png"></p>
+<p align="center"><img width="500" src="./assets/Logo3.png"></p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Telegram-blue)](https://desktop.telegram.org/)
