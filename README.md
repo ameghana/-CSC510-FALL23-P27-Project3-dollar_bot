@@ -150,7 +150,7 @@ We use pytest to perform testing on all unit tests together. The command needs t
 ```
 python run -m pytest test/
 ```
-<p align="center"><img width="500" src="./assests/TestCases.png"></p>
+<p align="center"><img width="500" src="./assets/TestCases.png"></p>
 
 
 ## :rocket: Code Coverage
@@ -163,7 +163,7 @@ Locally, we use the coverage package in python for code coverage. The commands t
 coverage run -m pytest test/
 coverage report
 ```
-<p align="center"><img width="500" src="./assests/Code_Coverage_Report.png"></p>
+<p align="center"><img width="500" src="./assets/Code_Coverage_Report.png"></p>
 
 ## :page_with_curl: License
 
