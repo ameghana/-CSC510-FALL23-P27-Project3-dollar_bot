@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Telegram-blue)](https://desktop.telegram.org/)
 ![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/sak007/MyDollarBot-BOTGo)](https://github.com/ebanigogia/dollar_bot/graphs/contributors)
-[![DOI](https://zenodo.org/badge/706356133.svg)](https://zenodo.org/doi/10.5281/zenodo.10019963)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10211886.svg)](https://doi.org/10.5281/zenodo.10211886)
 [![Build Status](https://app.travis-ci.com/usmanwardag/dollar_bot.svg?branch=main)](https://app.travis-ci.com/usmanwardag/dollar_bot)
 
 [![GitHub issues](https://img.shields.io/github/issues/ameghana/CSC510-FALL23-P27-Project3-dollar_bot)](https://github.com/ameghana/CSC510-FALL23-P27-Project3-dollar_bot/issues)
@@ -201,7 +201,7 @@ For any queries and help, please reach out to us at: csc510se.p27@gmail.com
 
 ## Chat Channel
 
-- https://discord.com/channels/1164337248746082394/1164337249387823152
+- https://discord.com/channels/1161405668079698112/1161405668578836530
 
 
 
